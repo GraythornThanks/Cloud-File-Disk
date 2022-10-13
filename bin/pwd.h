@@ -1,0 +1,2 @@
+
+int sendPwd(int fd);
